@@ -22,7 +22,7 @@ I’m passionate about building scalable software, leading engineering teams, an
 
 ## 🤝 Let’s connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/leggtom/)
-- 🌐 [Portfolio/Website](https://tomlegg.com)  
+- 🌐 [Website](https://tomlegg.com)  
 
 ---
 
