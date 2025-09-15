@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋 I'm Tom  
 
-<!--
-**nc-tom-legg/nc-tom-legg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Tech Lead | Full-Stack Engineer | Mentor**  
 
-Here are some ideas to get you started:
+I’m passionate about building scalable software, leading engineering teams, and constantly learning new technologies. I enjoy balancing hands-on coding with helping others grow and succeed.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I’m working on
+- Leading development projects with a focus on **web** and **mobile** applications  
+- Exploring **Kotlin** and refreshing my skills in **mobile development**  
+- Building and growing teams to deliver high-quality software faster and smarter 🧠
+
+---
+
+## 🌱 Currently learning
+- Deepening knowledge of **Swift & Kotlin** for iOS development  
+- Improving cross-platform approaches with **React Native & TypeScript**  
+- Growing my leadership toolkit for scaling engineering teams  
+
+---
+
+## 🤝 Let’s connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/leggtom/)
+- 🌐 [Portfolio/Website](https://tomlegg.com)  
+
+---
+
+⚡ **Fun fact:** I love combining hands-on coding with mentoring — seeing others thrive is just as rewarding as shipping great code.
