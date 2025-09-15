@@ -26,4 +26,4 @@ I’m passionate about building scalable software, leading engineering teams, an
 
 ---
 
-⚡ **Fun fact:** I love combining hands-on coding with mentoring — seeing others thrive is just as rewarding as shipping great code.
+⚡ **Fun fact:** People never see the things you don't ship! 
