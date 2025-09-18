@@ -7,16 +7,15 @@ I’m passionate about building scalable software, leading engineering teams, an
 ---
 
 ## 🚀 What I’m working on
-- Leading development projects with a focus on **web** and **mobile** applications  
-- Exploring **Kotlin** and refreshing my skills in **mobile development**  
+- Leading development projects with a focus on **web** and **mobile** applications.
+- Learning **Kotlin** and refreshing my skills in **mobile development**  
 - Building and growing teams to deliver high-quality software faster and smarter 🧠
 
 ---
 
 ## 🌱 Currently learning
-- Deepening knowledge of **Swift & Kotlin** for iOS development  
-- Improving cross-platform approaches with **React Native & TypeScript**  
-- Growing my leadership toolkit for scaling engineering teams  
+- Deepening knowledge of **Swift & Kotlin** for App Development.
+- Growing my leadership toolkit for scaling engineering teams.  
 
 ---
 
